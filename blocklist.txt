@@ -5,6 +5,27 @@
 ||crazygames.com^
 ||spelo.se^
 ||spela.se^
+||itch.io^
+||y8.com^
+||browsergamers.gg^
+||onlinegames.io^
+||now.gg^
+||pogo.com^
+||browsercraft.com^
+||numuki.com^
+||mopoga.com^
+||freewebgames.io^
+||pacogames.com^
+||playhop.com^
+||poki.homes^
+||sgames.org^
+||game-game.se^
+||jopi.com^
+||king.com^
+||gameneptune.com^
+||playgama.com^
+||spelplanet.se^
+||zylom.com^
 
 ||gamedistribution.com^
 ||famobi.com^

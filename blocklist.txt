@@ -1,0 +1,12 @@
+! Browser game blocklist
+! Last update: 2026-09-13
+
+||poki.com^
+||crazygames.com^
+||spelo.se^
+||spela.se^
+
+||gamedistribution.com^
+||famobi.com^
+||gamepix.com^
+||gamemonetize.com^

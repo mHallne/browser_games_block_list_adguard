@@ -1,5 +1,5 @@
 ! Browser game blocklist
-! Last update: 2026-09-21
+! Last update: 2026-09-27
 
 ||poki.com^
 ||crazygames.com^
@@ -31,6 +31,10 @@
 ||gamebite.io^
 ||playpio.com^
 ||arcadeunlocked.com^
+||friv.com^
+||kizi.com^
+||silvergames.com^
+||instgame.com^
 
 ||gamedistribution.com^
 ||famobi.com^

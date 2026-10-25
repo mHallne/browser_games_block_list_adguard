@@ -45,3 +45,7 @@
 ||play123.com^
 ||gamesgames.com^
 ||gamearter.com^
+||lagged.com^
+||addictinggames.com^
+||plays.org^
+||html5games.com^

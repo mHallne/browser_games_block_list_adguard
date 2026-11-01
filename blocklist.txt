@@ -49,3 +49,5 @@
 ||addictinggames.com^
 ||plays.org^
 ||html5games.com^
+||armorgames.com^
+||speldome.com^

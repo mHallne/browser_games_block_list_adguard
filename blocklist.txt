@@ -51,3 +51,4 @@
 ||html5games.com^
 ||armorgames.com^
 ||speldome.com^
+||coolmathgames.com^

@@ -52,3 +52,5 @@
 ||armorgames.com^
 ||speldome.com^
 ||coolmathgames.com^
+||iogames.space^
+||ottergames.org^

@@ -54,3 +54,10 @@
 ||coolmathgames.com^
 ||iogames.space^
 ||ottergames.org^
+||zenarcades.com^
+||wkidz.com^
+||snackogames.com^
+||snokido.com^
+||snapgame.app^
+||arcadezip.com^
+||gugi.io^
